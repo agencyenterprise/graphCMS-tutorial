@@ -13,7 +13,9 @@ If you never used the platform, I would recommend that you follow the tutorial o
 
 #### Create a Schema
  Drag and drop the fields that you want. 
- 
+
 ![](https://graphcms.com/static/fb03ae00936165444ea7b25b2fa37227/a1bed/getting-started-creating-models.png)
 
 ![](https://graphcms.com/static/adding-fields-3987f68f27dd6c067a3717ee23c3782c.mp4)
+
+[![IMAGE ALT TEXT HERE](./images/schema)](https://graphcms.com/static/adding-fields-3987f68f27dd6c067a3717ee23c3782c.mp4)
