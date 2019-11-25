@@ -12,10 +12,17 @@ If you don't now GraphQL it's important to have a minimum understand of the quer
 If you never used the platform, I would recommend that you follow the tutorial of GraphCMS
 
 #### Create a Schema
- Drag and drop the fields that you want. 
+ Drag and drop the fields that you want.
+ [Documentation](https://graphcms.com/docs/graphcms-concepts/schemas)
 
 ![](https://graphcms.com/static/fb03ae00936165444ea7b25b2fa37227/a1bed/getting-started-creating-models.png)
 
-![](https://graphcms.com/static/adding-fields-3987f68f27dd6c067a3717ee23c3782c.mp4)
+### Insert Fields
+Select on the fields options the field that it's on your interesse and put the name that you want.
 
-[![IMAGE ALT TEXT HERE](./images/schema)](https://graphcms.com/static/adding-fields-3987f68f27dd6c067a3717ee23c3782c.mp4)
+![](./images/fields.png)
+
+![](./images/first-field.png)
+
+<b>IMPORTANT</b>: If you want that the field it's an array you should <i>Allow multiple values</i> on <i>Advanced</i> 
+
