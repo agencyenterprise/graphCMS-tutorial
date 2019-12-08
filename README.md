@@ -1,5 +1,5 @@
 # GraphCMS Tutorial
-This is a tutorial to understand GraphCMS and make littles tips about the tool.
+This is a tutorial to help understand GraphCMS and includes some tips that might be useful.
 
 ## Where To Start
 ### GraphQL
